@@ -1,1 +1,1 @@
-# final-project
+# stock-market-predictor
